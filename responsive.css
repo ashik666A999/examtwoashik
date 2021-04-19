@@ -1,0 +1,844 @@
+
+
+
+
+/* 1400 PX */
+
+@media all and (max-width:1400px){}
+
+
+
+/* 1200px */
+
+@media all and (max-width:1200px){
+
+    .mynav .navbar-brand img {
+        width: 87px;
+    }
+
+    .mynav .primary-menu .nav-item {
+        margin-right: 24px;
+    }
+
+    .mynav ul li ul {
+        top: 148%;
+    }
+
+    .mynav .primary-menu .nav-item .nav-link i {
+        font-size: 9px;
+    }
+
+    .search-section a i {
+        font-size: 27px;
+    }
+
+    .bar {
+        width: 35px;
+        top: 6px;
+    }
+    .bar .one {
+        top: 4px;
+    }
+
+    .bar .three {
+        top: 22px;
+    }
+
+    .mynav ul li ul{
+        display: none;
+    }
+
+    .search-section {
+        text-align: end;
+    }
+
+    .counter-section .counter-content {
+        margin-bottom: 38px;
+    }
+
+
+
+
+}
+
+
+@media all and (max-width:1199px){
+
+    .consulting-section .consulting-title h4::before {
+        left: 316px;
+    }
+
+    .consulting-section .consulting-title h4::after {
+        right: 318px;
+    }
+
+    .consulting-section .consulting-title h2 {
+        font-size: 31px;
+
+    }
+
+    .member-card {
+        margin-bottom: 54px;
+    }
+
+    .consulting-section::before {
+        height: 25%;
+    }
+
+
+
+    .skill-banner img {
+        width: 200%;
+    }
+
+
+    .contact-section {
+        margin-top: 52px;
+    }
+
+    .contact-form {
+        margin-left: 0;
+        margin-top: 0;
+
+    }
+
+    .contact-form h3 {
+        font-size: 30px;
+        margin-bottom: 8px;
+
+    }
+
+    .contact-form p {
+        font-size: 13px;
+        margin-bottom: 18px;
+    }
+
+    .contact-form input {
+        padding: 2px 9px;
+    }
+
+    .contact-form select {
+        padding: 5px 11px;
+    }
+
+    .contact-form button {
+        display: inline-block;
+        padding: 6px 22px;
+        font-size: 15px;
+    }
+
+    .contact-form {
+        border-radius: 0 0 5px 5px;
+    }
+
+    .Project-card img {
+        width: 100%;
+    }
+
+    .Project-card {
+        margin-bottom: 34px !important;
+        width: 64%;
+        margin: auto;
+    }
+
+
+
+}
+
+
+
+
+
+
+
+
+
+/* 992px */
+
+@media all and (max-width:992px){
+
+
+    .header-slim .header-mail ul li {
+        padding: 0px 3px;
+        position: relative;
+    }
+
+    .header-slim .header-mail ul li a{
+        font-size: 11px;
+    }
+
+    .header-slim .header-mail ul li a i {
+        width: 20px;
+        height: 20px;
+        line-height: 20px;
+        font-size: 12px;
+    }
+
+    .header-slim .header-mail ul li:nth-child(2){
+        border-left: none;
+        
+    }
+
+    .header-slim .header-mail ul li:nth-child(2)::before{
+        content: "";
+        position: absolute;
+        top: 4px;
+        left: 0;
+        width: 1px;
+        height: 81%;
+        background-color: #fff;
+    }
+
+    .header-slim .header-social-menu ul {
+        margin-right: 26px;
+  
+    }
+
+    .header-slim .header-social-menu ul::before {
+        top: 2px;
+        height: 86%;
+    }
+    .header-slim .header-social-menu ul li {
+        margin-left: 18px;
+    }
+    .header-slim .header-social-menu ul li a {
+        font-size: 13px;
+    }
+
+
+    .banner-slide-one{
+        height: 50vh;
+    }
+
+    .banner-slide-two{
+        height: 50vh; 
+    }
+
+    .banner-slide-three{
+        height: 50vh;
+    }
+
+    .carousel-inner-items h2 {
+        font-size: 30px;
+        margin-bottom: 16px;
+    }
+
+    .carousel-inner-items p {
+        font-size: 14px;
+        margin-bottom: 20px;
+    }
+
+    .primary-btn {
+        padding: 6px 12px;
+        font-size: 13px;
+    }
+
+    .carousel-control-prev-icon {
+        width: 17px;
+    }
+    .carousel-control-next-icon {
+        width: 17px;
+    }
+
+    .slider-section button {
+        width: 30px;
+        height: 30px;
+    }
+
+    .featute-card .featute-title h3 {
+        font-size: 22px;
+    }
+
+    .featute-card .featute-title p {
+        font-size: 12px;
+    }
+
+    .arrow-div a {
+        height: 36px;
+        width: 60px;
+        line-height: 38px;
+    }
+
+    .featute-card:hover .arrow-div a {
+        width: 74px;
+    }
+
+    .feature-box:hover::before {
+        width: 65%;
+    }
+
+    .feature-section {
+        height: 493px;
+    }
+
+    .experiance-section {
+        padding: 47px 0 !important;
+    }
+
+    .experiance-section .experiance-text .experiance-title h2 {
+        font-size: 26px;
+    }
+
+    .experiance-section .experiance-text h4 {
+        font-size: 13px;
+        margin-bottom: 23px;
+    }
+
+    .experiance-section .experiance-text p {
+        font-size: 11px;
+        margin-bottom: 14px;
+    }
+
+    .experiance-section .experiance-text .sign {
+        margin: 21px 0;
+    }
+
+    .experiance-section .experiance-text .sign img {
+        width: 34%;
+    }
+
+    .experiance-section .experiance-text .primary-btn {
+        padding: 11px 31px;
+    }
+
+
+    
+    .text-header h4 {
+        font-size: 17px;
+    }
+
+    .text-header h2 {
+        font-size: 35px;
+    }
+
+    .news-button {
+        text-align: start !important;
+    }
+
+    .news-section .primary-btn {
+        padding: 10px 35px;
+    }
+
+    .news-card .news-card-image img {
+        width: 100%;
+    }
+
+    .testimonial-section .text-header h2 {
+        font-size: 20px;
+        margin-top: 20px;
+    }
+
+
+}
+
+
+@media all and (max-width:991px) {
+    .consulting-section .consulting-title h4::after {
+        right: 265px;
+    }
+    .consulting-section .consulting-title h4::before {
+        left: 263px;
+    }
+
+    .consulting-section .consulting-title h2 {
+        font-size: 25px;
+    }
+
+    .contact-section .contact-image img{
+        display: none;
+    }    
+
+    .contact-image .play-button-div {
+        position: unset;
+        padding: 30px;
+        text-align: center;
+    }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 768px */
+
+@media all and (max-width:768px){
+
+    .header-slim .header-mail ul li a {
+        font-size: 9px;
+    }
+
+    .header-slim .header-mail ul li:nth-child(2)::before {
+        top: 7px;
+        height: 61%;
+    }
+
+    .header-slim .header-mail ul li a i {
+        font-size: 11px;
+    }
+
+    .header-slim .header-social-menu ul {
+        margin-right: 20px;
+    }
+
+    .header-slim .header-social-menu ul li {
+        margin-left: 9px;
+    }
+    .header-slim .header-social-menu ul li a {
+        font-size: 12px;
+    }
+
+    .header-slim .header-social-menu ul::before {
+        top: 4px;
+        height: 77%;
+        right: -5px;
+    }
+
+    .feature-section{
+        height: 85vh;
+    }
+
+    .feature-box {
+        margin-bottom: 53px;
+    }
+
+    .feature-box .feature-img img{
+        width: 100%;
+    }
+
+    .text-header h4::before {
+        width: 39px;
+    }
+
+    .text-header h4 {
+        font-size: 15px;
+        margin-bottom: 18px;
+    }
+
+    .text-header h2 {
+        font-size: 35px;
+        margin-bottom: 16px;
+    }
+
+    .text-header p {
+        font-size: 13px;
+        margin-bottom: 31px;
+    }
+
+    .lavel-div label {
+        font-size: 14px;
+    }
+
+    .progress {
+        height: .7rem;
+    }
+
+    .skill-section .skill-progress{
+        padding: 0;
+    }
+
+
+}
+
+@media all and (max-width:767px) {
+    
+    .feature-section {
+        height: 300vh;
+    }
+
+    .experiance-section .experiance-banner img {
+        width: 60%;
+    }
+
+    .experiance-section .experiance-banner {
+        text-align: center;
+        margin-bottom: 32px;
+    }
+
+    .experiance-section .experiance-text {
+        text-align: center;
+        margin-top: 15px;
+    }
+
+    .experiance-section .experiance-text .experiance-title h2 {
+        font-size: 38px;
+    }
+
+    .experiance-section .experiance-text .experiance-title::before {
+        right: 0;
+        margin: auto;
+    }
+
+    .experiance-section .experiance-text .experiance-title::after {
+        right: 0;
+        margin: auto;
+    }
+
+    .consulting-section .consulting-title h2 {
+        font-size: 19px;
+    }
+
+    .consulting-section .consulting-title h4::after {
+        right: 224px;
+    }
+
+    .consulting-section .consulting-title h4::before {
+        left: 219px;
+    }
+
+    .member-card .m-card-info h4 {
+        font-weight: 600;
+        margin-bottom: 6px;
+    }
+
+    .member-card .m-card-info p {
+
+        font-size: 17px;
+    }
+
+    .member-card .m-card-social-icon ul {
+        padding: 29px 11px;
+    }
+
+    .member-card .m-card-social-icon ul li {
+        margin: 8px;
+    }
+
+    .member-card .m-card-social-icon ul li a {
+        font-size: 15px;
+        width: 20px;
+        height: 20px;
+        line-height: 20px;
+    }
+
+
+}
+
+
+
+
+
+
+
+/* 576px */
+
+@media all and (max-width:576px){
+
+    section .container{
+        padding: 0 25px;
+    }
+
+    .feature-box {
+        margin-bottom: 53px !important;
+        width: 72%;
+        margin: auto;
+    }
+
+    .feature-section {
+        height: 256vh;
+    }
+
+    .experiance-section .experiance-text .experiance-title h2 {
+        font-size: 31px;
+    }
+
+    .Lfwf-title h4 {
+        font-size: 14px;
+        margin-bottom: 8px;
+    }
+
+    .Lfwf-title h2 {
+        font-size: 35px;
+    }
+
+    .Lfwf-title::before {
+        width: 8px;
+        height: 100%;
+
+    }
+
+    .Lfwf-title-info p {
+        font-size: 14px;
+        margin-top: 12px;
+    }
+
+    .consulting-section .consulting-title h4::after {
+        right: 221px;
+    }
+
+    .consulting-section .consulting-title h4::before {
+        left: 222px;
+    }
+
+    .testimonial-section .text-header h2 {
+        font-size: 22px;
+        margin-top: 27px;
+    }
+
+    .testimonial-card .user-title h2 {
+        font-size: 21px;
+    }
+
+    .testimonial-card .user-title p {
+        font-size: 13px;
+    }
+
+    .testimonial-slider button {
+        width: 30px;
+        height: 30px;
+    }
+
+
+}
+
+
+
+
+/* 575px */
+
+@media all and (max-width:575px){
+    .header-slim .header-mail ul {
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    .header-slim .header-social-menu ul {
+        margin-right: none;
+        text-align: center;
+    }
+
+    .header-slim .header-social-menu ul::before {
+        display: none;
+    }
+
+    .counter-section .counter-content {
+        margin-bottom: 38px !important;
+        width: 70%;
+        margin: auto;
+    }
+
+    .consulting-section .consulting-title h4::after {
+        right: 126px;
+    }
+
+    .consulting-section .consulting-title h4::before {
+      display: none;
+    }
+
+    .consulting-section .consulting-title h4::after {
+        display: none;
+    }
+
+}
+
+
+/* 450px */
+
+@media all and (max-width:450px){
+
+    .carousel-inner-items h2 {
+        font-size: 23px;
+        margin-bottom: 10px;
+    }
+
+    .carousel-inner-items p {
+        font-size: 11px;
+        margin-bottom: 15px;
+    }
+
+    .primary-btn {
+        padding: 5px 11px;
+        font-size: 10px;
+    }
+    
+    .banner-slide-one{
+        height: 38vh;
+    }
+
+    .banner-slide-two{
+        height: 38vh; 
+    }
+
+    .banner-slide-three{
+        height: 38vh;
+    }
+
+    .feature-box {
+        margin-bottom: 53px !important;
+        width: 68%;
+        margin: auto;
+    }
+
+    .feature-section {
+        height: 228vh;
+    }
+
+    .counter-section .counter-content ul li {
+        font-size: 35px;
+    }
+
+    .counter-section .counter-content p {
+        font-size: 13px;
+    }
+
+    .f-b-text p {
+        font-size: 14px;
+    }
+
+    .footer-head .f-contact-info ul li a {
+        font-size: 13px;
+
+    }
+
+    .footer-head .f-contact-info ul li a span {
+        font-size: 15px;
+    }
+
+
+}
+
+
+/* 380px */
+
+
+@media all and (max-width:380px) {
+    .experiance-section .experiance-text .experiance-title h2 {
+        font-size: 21px;
+    }
+    .experiance-section .experiance-text h4 {
+        font-size: 12px;
+        margin-bottom: 14px;
+    }
+    .experiance-section .experiance-text p {
+        font-size: 10px;
+       
+    }
+
+    .experiance-section .experiance-text .experiance-title::before {
+        bottom: -29px;
+    }
+
+    .experiance-section .experiance-text .experiance-title::after {
+        bottom: -24px;
+    }
+
+
+    .Lfwf-title h4 {
+        font-size: 13px;
+        margin-bottom: 8px;
+    }
+
+    .Lfwf-title h2 {
+        font-size: 31px;
+    }
+
+    .Lfwf-title-info p {
+        font-size: 12px;
+        margin-top: 12px;
+    }
+
+    .contact-form h3 {
+        font-size: 21px;
+
+    }
+
+    .contact-form p {
+        font-size: 12px;
+        margin-bottom: 16px;
+    }
+
+    .contact-form input {
+        padding: 2px 9px;
+    }
+
+    .contact-form select {
+        padding: 2px 11px;
+    }
+
+    .contact-form button {
+        padding: 5px 18px;
+        font-size: 13px;
+    }
+
+    .contact-form {
+        padding: 36px 36px;
+    }
+
+
+
+}
+
+
+
+/* 350px */
+
+@media all and (max-width:350px) {
+    .carousel-inner-items h2 {
+        font-size: 17px;
+        margin-bottom: 13px;
+    }
+
+    .carousel-inner-items p {
+        font-size: 9px;
+        margin-bottom: 13px;
+    }
+
+    .primary-btn {
+        padding: 4px 10px;
+        font-size: 8px;
+    }
+
+    .carousel-control-prev-icon {
+        width: 14px;
+    }
+    .carousel-control-next-icon {
+        width: 14px;
+    }
+
+    .slider-section button {
+        width: 22px;
+        height: 22px;
+    }
+
+}
+
+
+
+
+
+
+@media all and (max-width:300px){
+
+    .feature-section {
+        height: 204vh;
+    }
+
+
+    .featute-card .featute-title {
+        padding: 14px 13px;
+    }
+
+    .arrow-div a {
+        bottom: -13px;
+    }
+
+    .arrow-div a {
+        height: 29px;
+        width: 54px;
+        line-height: 33px;
+    }
+
+
+}
+
